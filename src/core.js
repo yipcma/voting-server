@@ -35,3 +35,5 @@ export function vote(state, entry) {
     val => val + 1
   )
 }
+
+export const INITIAL_STATE = Map()
